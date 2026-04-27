@@ -19,6 +19,9 @@ Recommended badge:
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.compag.2026.111559-blue.svg)](https://doi.org/10.1016/j.compag.2026.111559)
 
+##Checkpoints 
+https://huggingface.co/Arvin26/Cattle-detection-model
+
 ## Repository Structure
 
 ```text
