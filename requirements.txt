@@ -1,0 +1,44 @@
+# YOLOv11 牛只检测项目依赖包
+# Core dependencies
+ultralytics>=8.0.196
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+Pillow>=8.3.0
+PyYAML>=5.4.0
+matplotlib>=3.3.0
+
+# Data processing
+pandas>=1.3.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Image augmentation
+albumentations>=1.3.0
+
+# Utilities
+tqdm>=4.62.0
+seaborn>=0.11.0
+requests>=2.26.0
+psutil>=5.8.0
+
+# Optional GPU acceleration
+# torch>=1.8.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+# torchvision>=0.9.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+
+# Development tools (optional)
+jupyter>=1.0.0
+ipython>=7.28.0
+black>=21.9.0
+flake8>=3.9.0
+
+# Monitoring and logging
+tensorboard>=2.7.0
+wandb>=0.12.0
+
+# Export formats (optional)
+# onnx>=1.10.0
+# onnxruntime>=1.9.0
+# openvino-dev>=2022.1.0
+# tensorrt>=8.0.0

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Beef Cattle Detection and Growth Curve Analysis"
+message: "If you use this repository, please cite the related paper."
+type: software
+authors:
+  - family-names: "Team"
+    given-names: "Beef Cattle Detection"
+identifiers:
+  - type: doi
+    value: "10.1016/j.compag.2026.111559"
+preferred-citation:
+  type: article
+  doi: "10.1016/j.compag.2026.111559"
